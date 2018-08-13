@@ -29,7 +29,7 @@
         "bootflat"                  : "*",
         "bootbox"                   : "*",
         "fontawesome"               : "4.*",
-        "ionicons"                  : "4.0.0",
+        "ionicons"                  : "2.0.1",
         "fullcalendar"              : "*",
         "adminlte"                  : "~2.3"
     }
